@@ -26,4 +26,3 @@ This repository contains explanations and examples of SQL queries commonly used 
 
 Feel free to explore the repository's contents and use the provided examples as a starting point for your own SQL and PostgreSQL learning journey. If you have any questions or need further clarification, please don't hesitate to reach out.
 
-Happy learning and querying with PostgreSQL!
